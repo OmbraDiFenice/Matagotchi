@@ -5,9 +5,9 @@
 
 #include <dolphin/dolphin.h>
 
-#include "flipper_structs.h"
-#include "game_structs.h"
-#include "threads.h"
+#include "game/flipper_structs.h"
+#include "game/game_structs.h"
+#include "game/threads.h"
 
 /******************** Initialisation & startup *****************************/
 

@@ -3,8 +3,8 @@
 
 #include <gui/gui.h>
 
-#include "flipper_structs.h"
-#include "game_structs.h"
+#include "../game/flipper_structs.h"
+#include "../game/game_structs.h"
 
 void refresh_gui(ViewPort *);
 

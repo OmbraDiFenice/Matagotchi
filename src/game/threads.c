@@ -3,7 +3,7 @@
 #include "threads.h"
 #include "constants.h"
 #include "game_structs.h"
-#include "gui.h"
+#include "../gui/gui.h"
 #include "state_management.h"
 
 void main_thread(struct ApplicationContext *context) {
